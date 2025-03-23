@@ -209,11 +209,11 @@ GROUP BY shifts;
 
 This project serves as a comprehensive introduction to SQL, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
-
-## Author - Sam Arnon
-
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, feel free to get in touch!
 
+---
+
+## Author - Sam Arnon
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/arnon15acto/)
 
 Thank you, and I look forward to connecting with you!
